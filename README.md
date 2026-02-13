@@ -1,1 +1,1 @@
-# numpybasics
+# python numpy
