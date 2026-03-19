@@ -56,7 +56,7 @@ It allows users to record their daily expenses by category and automatically pro
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone <https://github.com/guptadivyansh840-eng/python-projects/blob/main/Daily%20expese%20tracker>
 ```
 
 2. Run the Python file:
